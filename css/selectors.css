@@ -1,0 +1,12 @@
+/* this type of selector is by type: selecting an element by type(body) */
+body{
+    margin:10px;
+}
+/* this type of selector is through id (remember # symbol for id selector) */
+#products{
+    color:red;
+    }
+    /* this type of selector is through class(Remember the .symbol for class selector) */
+.product{
+    font-size: 25;
+}
